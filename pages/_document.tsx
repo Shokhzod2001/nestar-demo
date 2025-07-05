@@ -18,8 +18,8 @@ export default function Document() {
         <meta
           name="description"
           content={
-            "Buy and sell properties anywhere anytime in South Korea. |" +
-            "Покупайте и продавайте недвижимость в любой точке Южной Кореи в любое время. " +
+            "Buy and sell properties anywhere anytime in South Korea. | " +
+            "Покупайте и продавайте недвижимость в любой точке Южной Кореи в любое время. | " +
             "대한민국 언제 어디서나 부통산을 사고팔 수 있습니다"
           }
         />
